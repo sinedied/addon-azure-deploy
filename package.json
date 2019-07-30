@@ -1,0 +1,37 @@
+{
+  "name": "generator-addon-azure-deploy",
+  "version": "1.0.0",
+  "description": "Add Azure deployment to ngX-Rocket apps",
+  "main": "./generators/app/index.js",
+  "scripts": {
+    "lint": "xo generators/app/*.js",
+    "lint:fix": "npm run lint -s --fix",
+    "test": "npm run lint -s",
+    "postpublish": "git tag -a $npm_package_version -m \"$npm_package_version\" && git push --tags"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "ngx-rocket-addon",
+    "azure",
+    "deploy"
+  ],
+  "author": "Yohan Lasorsa",
+  "license": "MIT",
+  "dependencies": {
+    "@ngx-rocket/core": "^5.0.2",
+    "chalk": "^2.3.0"
+  },
+  "devDependencies": {
+    "xo": "^0.24.0"
+  },
+  "engines": {
+    "node": ">=10.9.0"
+  },
+  "xo": {
+    "space": true,
+    "prettier": true
+  },
+  "files": [
+    "generators/app"
+  ]
+}
