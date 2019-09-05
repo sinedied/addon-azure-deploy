@@ -2,6 +2,14 @@
   "name": "generator-addon-azure-deploy",
   "version": "1.0.0",
   "description": "Add Azure deployment to ngX-Rocket apps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinedied/addon-azure-deploy.git"
+  },
+  "homepage": "https://github.com/sinedied/addon-azure-deploy",
+  "bugs": {
+    "url": "https://github.com/sinedied/addon-azure-deploy/issues"
+  },
   "main": "./generators/app/index.js",
   "scripts": {
     "lint": "xo generators/app/*.js",
@@ -15,7 +23,10 @@
     "azure",
     "deploy"
   ],
-  "author": "Yohan Lasorsa",
+  "author": {
+    "name": "Yohan Lasorsa",
+    "url": "https://twitter.com/sinedied"
+  },
   "license": "MIT",
   "dependencies": {
     "@ngx-rocket/core": "^5.0.2",
