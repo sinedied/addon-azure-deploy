@@ -1,7 +1,7 @@
 # :rocket: generator-addon-azure-deploy
 
 [![NPM version](https://img.shields.io/npm/v/generator-addon-azure-deploy.svg)](https://www.npmjs.com/package/generator-addon-azure-deploy)
-[![Build status](https://img.shields.io/travis/sinedied/addon-firebase/master.svg)](https://travis-ci.org/sinedied/addon-azure-deploy)
+[![Build status](https://img.shields.io/travis/sinedied/addon-azure-deploy/master.svg)](https://travis-ci.org/sinedied/addon-azure-deploy)
 ![Node version](https://img.shields.io/node/v/generator-addon-azure-deploy.svg)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
