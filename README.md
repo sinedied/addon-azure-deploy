@@ -8,14 +8,14 @@
 
 > Add Azure deployment to ngX-Rocket apps
 
-This add-on configures Azure and adds a `deploy` script to deploy your application using [Azure blob storage](https://azure.microsoft.com/services/storage/blobs/?WT.mc_id=generatoraddonazuredeploy-github-yolasors) hosting.
+This add-on configures Azure and adds a `deploy` script to deploy your application using [Azure blob storage](https://azure.microsoft.com/services/storage/blobs/?WT.mc_id=javascript-0000-yolasors) hosting.
 
 The setup and deployment is done through the [@azure/ng-deploy](https://github.com/Azure/ng-deploy-azure) tool.
 
 ## Requirements
 
-An [Azure account](https://azure.microsoft.com/?WT.mc_id=generatoraddonazuredeploy-github-yolasors) is needed to use this add-on.
-You can create a free account following [this link](https://azure.microsoft.com/free/?WT.mc_id=generatoraddonazuredeploy-github-yolasors).
+An [Azure account](https://azure.microsoft.com/?WT.mc_id=javascript-0000-yolasors) is needed to use this add-on.
+You can create a free account following [this link](https://azure.microsoft.com/free/?WT.mc_id=javascript-0000-yolasors).
 
 ## Usage
 
