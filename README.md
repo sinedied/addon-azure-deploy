@@ -1,4 +1,4 @@
-[DEPRECATED]: This add-on has now been fully integrated into the latest (ngx-rocket)[https://github.com/ngx-rocket/generator-ngx-rocket] verison.
+[DEPRECATED]: This add-on has now been fully integrated into the latest [ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) verison.
 
 # :rocket: generator-addon-azure-deploy
 
